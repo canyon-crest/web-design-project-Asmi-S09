@@ -124,3 +124,13 @@
     }
 }
 
+.title{
+    text-align:center;
+    color:black;
+    background-color:white;
+}
+
+.subtitle{
+    font-style:italic;
+    color:lightsteelblue;
+}
