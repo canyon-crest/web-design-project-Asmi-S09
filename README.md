@@ -87,14 +87,6 @@ See **[images.md](./images.md)** for details about acceptable formats and naming
 |   • Links to external pages | 5% | Three valid, styled links |
 |   • Use of `<div>` tags (`container`, etc.) | 5% | Proper layout structure |
 |   • Additional nested `<div>` tag | 5% | Adds depth (e.g., sidebar) |
-|   • Class rules applied to paragraphs | 10% | At least one class per paragraph |
-|   • CSS properties (padding, margin, etc.) | 10% | Correct use of layout rules |
-|   • Advanced CSS (:hover, etc.) | 5% | Interactive CSS features |
-| **Media Queries & Responsiveness** | **10%** |  |
-|   • 3 @media queries for max-width | 10% | Breakpoints at 1200 px, 992 px, 768 px |
-| **Overall Aesthetic & Extra Features** | **25%** |  |
-|   • Color / layout / design quality | 15% | Visually balanced and readable |
-|   • Above-and-beyond features | 10% | Animations, additional pages, etc. |
 
 **Total: 100%**
 
@@ -103,13 +95,10 @@ See **[images.md](./images.md)** for details about acceptable formats and naming
 ## ✅ Submission Checklist
 - [ ] `index.html` and `styles.css` are both committed to your repo.  
 - [ ] At least **3 images** are stored in the `/images` folder.  
-- [ ] No inline CSS is used.  
-- [ ] Three @media queries are implemented.  
+
+
 - [ ] The site is responsive on mobile screens.  
-- [ ] All text and image sources are appropriate and professional.  
+
 - [ ] Your GitHub Pages preview or Codespaces live preview displays correctly.
 
----
-
-**🎓 Goal:**  
-Deliver a clean, professional, and responsive single-page website that reflects your personal style and demonstrates mastery of HTML and CSS.
+--
